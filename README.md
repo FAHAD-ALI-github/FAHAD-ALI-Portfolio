@@ -50,6 +50,6 @@ cd FAHAD-ALI-Portfolio
 
 ## 📬 Contact Me
 
-📧 Email: fahadali1078@gmail.com  
+📧 Email: fahad1078397@gmail.com  
 🔗 LinkedIn: [fahadali1078](https://www.linkedin.com/in/fahadali1078)  
 💻 GitHub: [@fahadali1078](https://github.com/FAHAD-ALI-github)
