@@ -26,7 +26,7 @@ Welcome to my personal developer portfolio! This website showcases my journey, s
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![desktop](screenshots/desktop.jpg) | ![mobile](screenshots/mobile.jpg) |
+| ![desktop](screenshots/desktop.png) | ![mobile](screenshots/mobile.jpg) |
 
 > Add screenshots in the `screenshots/` folder of your repo.
 
